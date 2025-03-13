@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNGSuite">
+	<test name="all in one">
+		<classes>
+			<class name="com.koenig.TestNGXMLExample.Module1" />
+			<class name="com.koenig.TestNGXMLExample.Module2" />
+		</classes>
+	</test>
+</suite>
